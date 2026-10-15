@@ -1,6 +1,6 @@
 ADF_Project
 
-# Azure Data Factory End -To-End Project With Azure DevOps 
+# Azure Data Factory End -To-End Project 
 
 An end-to-end data engineering project built in **Azure Data Factory** that ingests flight-booking data from multiple sources, cleans and models it in a **bronze / silver / gold** lakehouse on **ADLS Gen2**, and serves analytics-ready aggregates.
 
